@@ -1,0 +1,26 @@
+{
+  "name": "vaadin-playground",
+  "version": "1.0.0",
+  "description": "A playground to test and study webcomponents",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danylaporte/vaadin-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danylaporte/vaadin-playground/issues"
+  },
+  "homepage": "https://github.com/danylaporte/vaadin-playground#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "open": "0.0.5"
+  }
+}

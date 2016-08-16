@@ -1,0 +1,21 @@
+{
+  "name": "vaadin-playground",
+  "homepage": "https://github.com/danylaporte/vaadin-playground",
+  "authors": [
+    "Dany Laporte <dany_laporte@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "directory" : "public/bower_components",
+  "dependencies": {
+    "vaadin-core-elements": "^1.1.2"
+  }
+}
